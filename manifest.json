@@ -1,0 +1,9 @@
+{
+    "name": "discord_theater",
+    "display_name": "🎭 Discord 社区小剧场",
+    "description": "同步 Discord 频道的小剧场内容到当前输入框",
+    "author": "Community",
+    "version": "1.0.0",
+    "entry_point": "index.js"
+}
+
